@@ -20,6 +20,10 @@ of function definition in sinus.py or by defining own geometry.
 this script calculates FFT (parallel by default), its square and normalization.
 3. `python ./visualize_freqs.py -t 50 ./freqs.h5` visualize the calculated field enhancement arrays.
 
+## How it looks?
+
+![](https://github.com/Trel725/plasmon-meep/raw/master/img/geometry.png)
+
 ## Notes
 
 multiviewer.py is taken from https://www.datacamp.com/community/tutorials/matplotlib-3d-volumetric-data

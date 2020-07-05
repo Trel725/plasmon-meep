@@ -59,7 +59,7 @@ if args.save:
 
 plt.plot(1000 / freqs[skip_freq:], enhancement[skip_freq:])
 plt.xlabel("Wavelength, nm")
-plt.ylabel("|$\\vec{E}$/$\\vec{E_0}$|")
+plt.ylabel("$|\\vec{E}$/$\\vec{E_0}|^2$")
 plt.grid()
 plt.show()
 

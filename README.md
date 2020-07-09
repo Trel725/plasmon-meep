@@ -24,6 +24,10 @@ this script calculates FFT (parallel by default), its square and normalization.
 
 ![](https://github.com/Trel725/plasmon-meep/raw/master/img/geometry.png)
 
+## Questions
+
+In case of any questions, please, firstly have a look at the issues (including closed). If there are no answer there, feel free to open new one.
+
 ## Notes
 
 multiviewer.py is taken from https://www.datacamp.com/community/tutorials/matplotlib-3d-volumetric-data
